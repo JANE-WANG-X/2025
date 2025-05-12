@@ -1,0 +1,26 @@
+# Core
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+scipy
+tqdm
+
+# NLP
+nltk
+spacy
+gensim
+transformers
+sentence-transformers
+
+# Modeling and evaluation
+xgboost
+lightgbm
+shap
+
+# Jupyter & development
+jupyter
+notebook
+ipykernel
+nbformat
