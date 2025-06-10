@@ -10,4 +10,4 @@ cn_scoring.ipynb and us_scoring.ipynb for getting sentiment scores for cn and us
 
 news_eda_2.ipynb for data analysis for sentiment scores, and combined analysis with stock prices
 
-impact_model.ipynb for sentiment score impact on stock market assessment
+impact_model.ipynb for sentiment score impact on stock market assessment and statistical tests
